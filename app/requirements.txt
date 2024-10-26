@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+langchain
+transformers
+torch
+pymilvus
+cohere
+sentence-transformers
+PyPDF2
